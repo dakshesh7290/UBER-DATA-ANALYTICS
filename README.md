@@ -51,8 +51,8 @@ Includes:
 - Trip volume is evenly distributed across all 176 pickup zones, with no single zone dominating demand
 
 ## Files in This Repo
-- `uber data analytics raw` — raw dataset
--  `uber data analytics clean` — cleaned dataset
+- `uber data analytics raw.csv` — raw dataset
+-  `uber data analytics clean.xlsx` — cleaned dataset
 - `queries.sql` — all SQL queries
 - `eda.ipynb` — Python analysis notebook
 - `uber data analytics dashboard.pbix`  — Power BI dashboard export
