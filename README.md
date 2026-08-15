@@ -1,4 +1,4 @@
-# Uber Data Analytics Dashboard
+# Uber Ride Analytics Dashboard
 
 ## Overview
 This project analyzes a 150,000-row Uber ride-booking dataset from Delhi-NCR, India, covering the full pipeline from data cleaning through SQL analysis, Python EDA, and a Power BI dashboard.
